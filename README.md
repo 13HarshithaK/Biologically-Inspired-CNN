@@ -1,2 +1,2 @@
 # Biologically-Inspired-CNN
-hello
+hello, Will update this and add the necessary descriptions and references
